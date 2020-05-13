@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bestisfresh.github.io
+Token: fd581b4788d2af49818051720e26d05edf83710706aae19972a5c87177a62d32
